@@ -1,0 +1,10 @@
+C:\Users\TokalaR\source\Workspaces\SSDT Demo\SSDT Demo\bin\Debug\SSDT Demo.dacpac
+C:\Users\TokalaR\source\Workspaces\SSDT Demo\SSDT Demo\bin\Debug\SSDT_Demo.dll
+C:\Users\TokalaR\source\Workspaces\SSDT Demo\SSDT Demo\bin\Debug\SSDT_Demo.pdb
+C:\Users\TokalaR\source\Workspaces\SSDT Demo\SSDT Demo\obj\Debug\SSDT Demo.sqlprojAssemblyReference.cache
+C:\Users\TokalaR\source\Workspaces\SSDT Demo\SSDT Demo\obj\Debug\Model.xml
+C:\Users\TokalaR\source\Workspaces\SSDT Demo\SSDT Demo\obj\Debug\refactor.xml
+C:\Users\TokalaR\source\Workspaces\SSDT Demo\SSDT Demo\obj\Debug\postdeploy.sql
+C:\Users\TokalaR\source\Workspaces\SSDT Demo\SSDT Demo\obj\Debug\predeploy.sql
+C:\Users\TokalaR\source\Workspaces\SSDT Demo\SSDT Demo\obj\Debug\SSDT_Demo.dll
+C:\Users\TokalaR\source\Workspaces\SSDT Demo\SSDT Demo\obj\Debug\SSDT_Demo.pdb
